@@ -1,7 +1,7 @@
-**Description:
+**Description:**
 This repository contains a collection of SQL case studies, including codes and reports, demonstrating various SQL queries and analyses for different scenarios and business problems. Each case study explores different aspects of SQL querying, data manipulation, and analysis techniques.
 
-**Contents:**
+**Contents:** 
 **Code Files:** This directory contains SQL code files for each case study, organized by case study name or topic.
 **Reports:** This directory contains reports summarizing the findings and analyses conducted in each case study, along with any insights or recommendations derived from the data.
 
