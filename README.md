@@ -1,4 +1,5 @@
 **Description:**
+
 This repository contains a collection of SQL case studies, including codes and reports, demonstrating various SQL queries and analyses for different scenarios and business problems. Each case study explores different aspects of SQL querying, data manipulation, and analysis techniques.
 
 **Contents:** 
